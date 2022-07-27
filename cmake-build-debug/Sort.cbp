@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Sort"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/408/data_structure/Sort/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sort">
+				<Option output="E:/408/data_structure/Sort/cmake-build-debug/Sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/408/data_structure/Sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sort"/>
+					<CompileFile command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sort/fast">
+				<Option output="E:/408/data_structure/Sort/cmake-build-debug/Sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/408/data_structure/Sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sort/fast"/>
+					<CompileFile command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/408/data_structure/Sort/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/408/data_structure/Sort/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/Clion/mingw64/bin/mingw32-make.exe -f &quot;E:/408/data_structure/Sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/408/data_structure/Sort/BubbleSort.cpp">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/BubbleSort.h">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/HeapSort.cpp">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/HeapSort.h">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/InsertSort.cpp">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/InsertSort.h">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/MergeSort.cpp">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/MergeSort.h">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/QuickSort.cpp">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/QuickSort.h">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/RadixSort.cpp">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/RadixSort.h">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/SellectSort.cpp">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/SellectSort.h">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/ShellSort.cpp">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/ShellSort.h">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/Sqlist.cpp">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/Sqlist.h">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/main.cpp">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Sort/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
